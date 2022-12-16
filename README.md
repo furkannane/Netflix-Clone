@@ -14,7 +14,7 @@ Below are the screenshots from the app and the explanation for the pages
 <img src="/screenshots/Screenshot_20221216_135500_host.exp.exponent.jpg" width="308" height="651">
 </div>
 
-This is the homescreen of the app. You can search for movies using the search component. "All Movies" tab leads to the page where all movies are listed. "Fav Actors" and "My List" lead to liked actors list and liked movies list. There are segments like "popular movies", "movie of the day", "random movie segment" and "recommended for you". Pressing on a movie item leads to ""movie details" screen.
+This is the homescreen of the app. You can search for movies using the search component. "All Movies" tab leads to the page where all movies are listed. "Fav Actors" and "My List" lead to liked actors list and liked movies list. There are segments like "popular movies", "movie of the day", "random movie segment" and "recommended for you". Pressing on a movie item leads to "movie details" screen.
 
 ### Search Results Screen
 
@@ -29,13 +29,13 @@ This is the search results screen where you can see the results of the search. A
 <img src="/screenshots/Screenshot_20221216_135545_host.exp.exponent.jpg" width="308" height="651">
 </div>
 
-This is the movie details screen where you can see details about the movie like the description and the cast. You can like the movie by pressing the heart. You can also watch the associated video by clicking the button.
+This is the movie details screen where you can see details about the movie like the description, photo and the cast. You can like the movie by pressing the heart. You can also watch the associated video by clicking the button.
 
 ### Actor Details Screen
 
 <img src="/screenshots/Screenshot_20221216_135624_host.exp.exponent.jpg" width="308" height="651">
 
-This is the actor details screen where you can see details about the actor like the description and name.
+This is the actor details screen where you can see details about the actor like the description, name and a photo.
 
 ### My List Screen
 
